@@ -1,4 +1,6 @@
 ### Hi there 👋
+- name: duolingo to markdown
+  uses: diegoaichele/duolingo-to-markdown@v0.2
 
 <!--
 **kyrantonia/kyrantonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
