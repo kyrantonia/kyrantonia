@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- duolingo -->
-- name: duolingo to markdown
+<p align="center"><img src="https://d35aaqx5ub95lt.cloudfront.net/images/dc30aa15cf53a51f7b82e6f3b7e63c68.svg">  Duolingo username: <strong> kyra964760 </strong> </br>Last Streak: <strong> 17</strong>  <img   width="20.5px" height="15.5px" src="https://d35aaqx5ub95lt.cloudfront.net/vendor/398e4298a3b39ce566050e5c041949ef.svg"></br><table align="center"><tr><th>Language</th><th>Level</th><th>Experience</th></tr> <tr><th>French </th><th><span><img  width="20.5px" height="15.5px"  src="https://d35aaqx5ub95lt.cloudfront.net/vendor/b3ede3d53c932ee30d981064671c8032.svg"><span >6</span></span></th><th><span><img width="20.5px" height="15.5px" src="https://d35aaqx5ub95lt.cloudfront.net/images/profile/01ce3a817dd01842581c3d18debcbc46.svg"><span >661</span></span></th></tr> <tr><th>Esperanto </th><th><span><img  width="20.5px" height="15.5px"  src="https://d35aaqx5ub95lt.cloudfront.net/vendor/b3ede3d53c932ee30d981064671c8032.svg"><span >1</span></span></th><th><span><img width="20.5px" height="15.5px" src="https://d35aaqx5ub95lt.cloudfront.net/images/profile/01ce3a817dd01842581c3d18debcbc46.svg"><span >0</span></span></th></tr></table></p> 
   uses: diegoaichele/duolingo-to-markdown@v0.2
 
 <!--
